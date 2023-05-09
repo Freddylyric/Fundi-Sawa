@@ -44,6 +44,7 @@ class _LoginScreenState extends State<LoginScreen> {
                             SizedBox(width: 5,),
                             Text(
                               'UserName',
+                              // TODO: Replace with actual username
                               textAlign: TextAlign.center,
                               style: mainTitle),
                         ],
